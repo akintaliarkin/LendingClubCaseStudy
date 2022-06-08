@@ -38,7 +38,7 @@ This analysis uses the complete loan data for all loans issued through the time 
 - Resources on the web were consumed to understand various terminologies associated with consumer lending.
 
 ## Contact
-Created by [@akintaliarkin] and [@nikhilanilbansal] - feel free to contact us!
+Created by @akintaliarkin and @nikhilanilbansal - feel free to contact us!
 
 
 <!-- Optional -->
