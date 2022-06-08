@@ -1,6 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
-
+> Underwriting risk analysis for a diversified consumer finance company catering to urban customers.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -8,15 +7,17 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+This project deals with the underwriting risk analysis for a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+* If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+
+* If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
+
+The objective here is to find the driving factors (or driver variables) behind loan default. These factors will be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
+
+This analysis uses the complete loan data for all loans issued through the time period 2007 t0 2011 by the company.
+
 
 ## Conclusions
 - Customers who are revolving their credit more are more likely to default.
@@ -32,11 +33,9 @@
 - Seaborn - Version 0.11.2
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This project mainly applies the concepts of EDA (Exploratory Data Analysis) in Data Science.
+- The data dictionary provided by the client was used for understanding the data.
+- Resources on the web were consumed to understand various terminologies associated with consumer lending.
 
 ## Contact
 Created by [@akintaliarkin] and [@nikhilanilbansal] - feel free to contact us!
