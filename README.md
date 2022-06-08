@@ -16,7 +16,7 @@ This project deals with the underwriting risk analysis for a consumer finance co
 
 The objective here is to find the driving factors (or driver variables) behind loan default. These factors will be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 
-This analysis uses the complete loan data for all loans issued through the time period 2007 t0 2011 by the company.
+This analysis uses the complete loan data for all loans issued through the time period 2007 to 2011 by the company.
 
 
 ## Conclusions
