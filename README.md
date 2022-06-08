@@ -19,20 +19,17 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+- Customers who are revolving their credit more are more likely to default.
+- The shorter the tenure of the loan, more is the likelihood of default.
+- Number of customers defaulting loan is almost increasing by double every year, which states the need to bring in better loan approval mechanism.
+- Maximum numbers of loans are approved towards the end of year
+- Customers with previous bankruptcy records are more likely to default
+- The defaulters are more for interest rate of around 15%
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- Pandas - Version 1.3.4
+- matplotlib - Version 3.4.3
+- Seaborn - Version 0.11.2
 
 ## Acknowledgements
 Give credit here.
@@ -42,7 +39,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@akintaliarkin] and [@nikhilanilbansal] - feel free to contact us!
 
 
 <!-- Optional -->
